@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CG_LAB3", "CG_LAB3\CG_LAB3.vcxproj", "{722E4957-F67F-47C1-AF4E-F2D0DFDCA021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722E4957-F67F-47C1-AF4E-F2D0DFDCA021}.Debug|Win32.ActiveCfg = Debug|Win32
+		{722E4957-F67F-47C1-AF4E-F2D0DFDCA021}.Debug|Win32.Build.0 = Debug|Win32
+		{722E4957-F67F-47C1-AF4E-F2D0DFDCA021}.Release|Win32.ActiveCfg = Release|Win32
+		{722E4957-F67F-47C1-AF4E-F2D0DFDCA021}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
