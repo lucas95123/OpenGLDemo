@@ -1,8 +1,13 @@
-﻿生成启动时间为 2015/11/23 15:12:12。
-     1>项目“D:\Opengl Projects\CG_LAB3\CG_LAB3\CG_LAB3.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2015/11/23 15:36:21。
+     1>项目“D:\Opengl Projects\CG_LAB3\CG_LAB3\CG_LAB3.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
-         D:\Program files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         D:\Program files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt glm.cpp main.cpp main1.cpp ObjModel.cpp TextureLib.cpp
+         TextureLib.cpp
+         ObjModel.cpp
+         main1.cpp
          main.cpp
+         glm.cpp
+         正在生成代码...
        Link:
          D:\Program files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Opengl Projects\CG_LAB3\Debug\CG_LAB3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Opengl Projects\CG_LAB3\Debug\CG_LAB3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Opengl Projects\CG_LAB3\Debug\CG_LAB3.lib" /MACHINE:X86 Debug\glm.obj
          Debug\main.obj
@@ -10,8 +15,8 @@
          Debug\ObjModel.obj
          Debug\TextureLib.obj
          CG_LAB3.vcxproj -> D:\Opengl Projects\CG_LAB3\Debug\CG_LAB3.exe
-     1>已完成生成项目“D:\Opengl Projects\CG_LAB3\CG_LAB3\CG_LAB3.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“D:\Opengl Projects\CG_LAB3\CG_LAB3\CG_LAB3.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.60
+已用时间 00:00:01.66
