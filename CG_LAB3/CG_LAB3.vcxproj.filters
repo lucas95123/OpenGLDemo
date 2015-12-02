@@ -21,9 +21,6 @@
     <ClCompile Include="glm.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="main1.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="ObjModel.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -39,6 +36,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="TextureLib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Vec3.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

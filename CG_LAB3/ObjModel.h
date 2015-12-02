@@ -9,6 +9,8 @@ class ObjModel
 public:
 	ObjModel(char * objFileName);
 	void draw(int textureID);
+	void draw();
+	GLMmodel *getGLMmodel(){ return objModel; }
 	~ObjModel();
 
 private:

@@ -68,7 +68,6 @@
   <ItemGroup>
     <ClCompile Include="glm.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="main1.cpp" />
     <ClCompile Include="ObjModel.cpp" />
     <ClCompile Include="TextureLib.cpp" />
   </ItemGroup>
@@ -76,6 +75,7 @@
     <ClInclude Include="glm.h" />
     <ClInclude Include="ObjModel.h" />
     <ClInclude Include="TextureLib.h" />
+    <ClInclude Include="Vec3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
